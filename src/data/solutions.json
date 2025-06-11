@@ -1,0 +1,32 @@
+[
+  {
+    "app": "Metrics & Tools",
+    "issue": "Indicadores no cargan",
+    "solutions": [
+      "Confirma si los permisos de ubicación están activados. Algunos indicadores dependen del contexto de tienda.",
+      "Desde la pantalla de inicio, haz 'pull to refresh' para forzar la carga de datos en tiempo real.",
+      "Valida si otros módulos dentro de Metrics & Tools (como RPV) también fallan, podría indicar un problema con el backend.",
+      "Accede a través de datos móviles para descartar un problema con la red WiFi interna."
+    ]
+  },
+  {
+    "app": "My Task",
+    "issue": "La pantalla queda en blanco",
+    "solutions": [
+      "Confirma si los permisos de ubicación están activados. Algunos indicadores dependen del contexto de tienda.",
+      "Desde la pantalla de inicio, haz 'pull to refresh' para forzar la carga de datos en tiempo real.",
+      "Valida si otros módulos dentro de Metrics & Tools (como RPV) también fallan, podría indicar un problema con el backend.",
+      "Accede a través de datos móviles para descartar un problema con la red WiFi interna."
+    ]
+  },
+  {
+    "app": "Markdowns",
+    "issue": "No se pueden aplicar descuentos",
+    "solutions": [
+      "Verifica si el producto tiene restricciones de rebaja activa (por ejemplo, productos de alta demanda o protegidos por categoría).",
+      "Consulta en IMS si el inventario es cero; algunos procesos de markdown no aplican sin stock físico.",
+      "Revisa si el markdown ya fue ejecutado previamente, usando el historial del artículo.",
+      "Confirma que tu rol tiene permisos de markdown activos en la tienda actual (depende de perfil)."
+    ]
+  }
+]
