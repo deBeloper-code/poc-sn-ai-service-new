@@ -19,7 +19,7 @@
     "@types/cors": "^2.8.18",
     "@types/express": "^5.0.1",
     "@types/node": "^22.15.17",
-    "@types/ws": "^8.18.1",
+    "@types/ws": "^8.18.1"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.11.4",
