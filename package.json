@@ -4,7 +4,7 @@
   "main": "index.js",
   "engines": {
     "node": "20.17.0",
-    "npm": " 10.8.2"
+    "npm": " 11.4.1"
   },
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/app.ts",
