@@ -1,10 +1,10 @@
 import OpenAI from "openai";
 import solutionsData from "../data/solutions.json";
 
-const OPENAI_API_KEY = "";
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 const openai = new OpenAI({
-  apiKey: OPENAI_API_KEY,
+  apiKey: OPENAI_API_KEY || "",
 });
 
 const initialMessage =

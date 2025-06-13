@@ -6,9 +6,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.getTroubleshootSuggestions = getTroubleshootSuggestions;
 const openai_1 = __importDefault(require("openai"));
 const solutions_json_1 = __importDefault(require("../data/solutions.json"));
-const OPENAI_API_KEY = "";
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const openai = new openai_1.default({
-    apiKey: OPENAI_API_KEY,
+    apiKey: OPENAI_API_KEY || "",
 });
 const initialMessage = "Before continuing, try the following: " +
     "Check if you are connected to the store's WiFi network. " +
