@@ -1,52 +1,52 @@
 [
   {
     "app": "Metrics & Tools",
-    "issue": "Indicadores no cargan",
+    "issue": "KPIs are not loading",
     "solutions": [
-      "Consulta con tu líder si se han actualizado los indicadores hoy. A veces el corte tarda más de lo habitual.",
-      "Pregunta a otro asociado si puede ver sus KPIs. Si ellos tampoco, puede ser un tema general del día.",
-      "Revisa si la tienda aparece abierta en el sistema. Si fue marcada como cerrada por error, los KPIs no se muestran.",
-      "Acércate al área de sistemas o equipo de liderazgo si el tablero lleva más de una hora sin mostrar datos."
+      "Check with your team lead to see if today’s KPIs have been updated. Sometimes the data takes longer than usual to refresh.",
+      "Ask another associate if they can see their KPIs. If not, it might be a system-wide delay.",
+      "Verify if the store is marked as open in the system. If it was mistakenly set as closed, the KPIs may not show up.",
+      "Reach out to the systems or leadership team if the dashboard has not displayed data for over an hour."
     ]
   },
   {
     "app": "My Task",
-    "issue": "La pantalla de tareas queda en blanco",
+    "issue": "The task screen is blank",
     "solutions": [
-      "Verifica con tu líder si ya te asignaron tareas para hoy. Si no tienes tareas, la pantalla aparece vacía.",
-      "Pregunta a un compañero si también ve la pantalla sin tareas. Si varios lo tienen, puede ser una carga pendiente.",
-      "Acércate al gerente de operaciones y valida si se cargaron correctamente las tareas del día en Plan IT.",
-      "Confirma que estás registrado en la tienda correcta. Si estás en traslado, eso podría afectar la carga de tareas."
+      "Check with your lead to confirm if you have been assigned tasks for today. If not, the screen will appear empty.",
+      "Ask a teammate if they also see an empty task screen. If others do too, it may be a loading delay.",
+      "Check with the operations manager to confirm if the day’s tasks were published correctly in Plan IT.",
+      "Make sure you're registered to the correct store. If you’re covering another location, that could affect task visibility."
     ]
   },
   {
     "app": "Markdowns",
-    "issue": "No se pueden aplicar descuentos",
+    "issue": "Discounts can't be applied",
     "solutions": [
-      "Consulta si el producto está en promoción nacional o evento, ya que algunos artículos no permiten markdowns adicionales.",
-      "Pregunta al líder de piso si el artículo ya fue marcado por otro equipo en el turno anterior.",
-      "Verifica con tu líder si el inventario actual permite rebajas. Algunos markdowns se bloquean si hay poco stock.",
-      "Revisa si hay alguna instrucción reciente en el pizarrón de comunicación sobre restricciones de markdowns."
+      "Check if the item is part of a national promotion or event — some products are restricted from additional markdowns.",
+      "Ask the floor lead if the item was already marked down by another team during a previous shift.",
+      "Check with your lead to confirm whether current inventory levels allow markdowns. Low stock may block the discount.",
+      "Look at the team board or communication chat to see if there are any recent instructions about markdown restrictions."
     ]
   },
   {
     "app": "Sales",
-    "issue": "No veo las ventas del día",
+    "issue": "I can't see today’s sales",
     "solutions": [
-      "Pregunta a tu líder si ya se generó el corte de ventas. A veces tarda unos minutos después de abrir tienda.",
-      "Consulta con otro asociado si sus ventas aparecen. Si no, puede ser un retraso general.",
-      "Valida que estés en la tienda correcta. Si estás cubriendo en otra tienda, los datos podrían no cargarse.",
-      "Revisa el pizarrón o chat del equipo; si hubo cambios en los horarios o asignaciones, podrían afectar la visibilidad."
+      "Ask your lead if the sales report has been finalized for today. Sometimes it takes a few minutes after store opening.",
+      "Check with another associate if they can see their sales. If not, it could be a general delay.",
+      "Confirm that you are assigned to the correct store. If you're covering another location, the data may not load.",
+      "Check the team board or group chat — any recent shift changes or store reassignments could affect your view."
     ]
   },
   {
     "app": "Plan IT",
-    "issue": "Ya no puedo ver el plan de actividades",
+    "issue": "I can't see the activity plan anymore",
     "solutions": [
-      "Consulta con el subgerente si ya se liberó el plan de hoy. A veces lo ajustan a primera hora.",
-      "Pregunta a un compañero si su plan está visible. Si varios no lo ven, puede ser un retraso de carga.",
-      "Verifica si hubo cambios de horario o cobertura de tienda. Esto puede afectar lo que ves.",
-      "Si estás cubriendo en otra área o sección, pide a tu líder que revise si el plan fue asignado correctamente."
+      "Ask the assistant manager if today’s plan has been published. Sometimes it’s updated early in the morning.",
+      "Check with a teammate to see if their plan is visible. If multiple people don’t see it, it may be a delay in the system.",
+      "Confirm if there have been any shift changes or store reassignments. These could impact your visibility.",
+      "If you’re helping in another department or area, ask your lead to confirm whether your plan was assigned correctly."
     ]
   }
 ]
