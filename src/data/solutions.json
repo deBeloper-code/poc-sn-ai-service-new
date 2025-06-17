@@ -3,30 +3,50 @@
     "app": "Metrics & Tools",
     "issue": "Indicadores no cargan",
     "solutions": [
-      "Confirma si los permisos de ubicación están activados. Algunos indicadores dependen del contexto de tienda.",
-      "Desde la pantalla de inicio, haz 'pull to refresh' para forzar la carga de datos en tiempo real.",
-      "Valida si otros módulos dentro de Metrics & Tools (como RPV) también fallan, podría indicar un problema con el backend.",
-      "Accede a través de datos móviles para descartar un problema con la red WiFi interna."
+      "Consulta con tu líder si se han actualizado los indicadores hoy. A veces el corte tarda más de lo habitual.",
+      "Pregunta a otro asociado si puede ver sus KPIs. Si ellos tampoco, puede ser un tema general del día.",
+      "Revisa si la tienda aparece abierta en el sistema. Si fue marcada como cerrada por error, los KPIs no se muestran.",
+      "Acércate al área de sistemas o equipo de liderazgo si el tablero lleva más de una hora sin mostrar datos."
     ]
   },
   {
     "app": "My Task",
-    "issue": "La pantalla queda en blanco",
+    "issue": "La pantalla de tareas queda en blanco",
     "solutions": [
-      "Confirma si los permisos de ubicación están activados. Algunos indicadores dependen del contexto de tienda.",
-      "Desde la pantalla de inicio, haz 'pull to refresh' para forzar la carga de datos en tiempo real.",
-      "Valida si otros módulos dentro de Metrics & Tools (como RPV) también fallan, podría indicar un problema con el backend.",
-      "Accede a través de datos móviles para descartar un problema con la red WiFi interna."
+      "Verifica con tu líder si ya te asignaron tareas para hoy. Si no tienes tareas, la pantalla aparece vacía.",
+      "Pregunta a un compañero si también ve la pantalla sin tareas. Si varios lo tienen, puede ser una carga pendiente.",
+      "Acércate al gerente de operaciones y valida si se cargaron correctamente las tareas del día en Plan IT.",
+      "Confirma que estás registrado en la tienda correcta. Si estás en traslado, eso podría afectar la carga de tareas."
     ]
   },
   {
     "app": "Markdowns",
     "issue": "No se pueden aplicar descuentos",
     "solutions": [
-      "Verifica si el producto tiene restricciones de rebaja activa (por ejemplo, productos de alta demanda o protegidos por categoría).",
-      "Consulta en IMS si el inventario es cero; algunos procesos de markdown no aplican sin stock físico.",
-      "Revisa si el markdown ya fue ejecutado previamente, usando el historial del artículo.",
-      "Confirma que tu rol tiene permisos de markdown activos en la tienda actual (depende de perfil)."
+      "Consulta si el producto está en promoción nacional o evento, ya que algunos artículos no permiten markdowns adicionales.",
+      "Pregunta al líder de piso si el artículo ya fue marcado por otro equipo en el turno anterior.",
+      "Verifica con tu líder si el inventario actual permite rebajas. Algunos markdowns se bloquean si hay poco stock.",
+      "Revisa si hay alguna instrucción reciente en el pizarrón de comunicación sobre restricciones de markdowns."
+    ]
+  },
+  {
+    "app": "Sales",
+    "issue": "No veo las ventas del día",
+    "solutions": [
+      "Pregunta a tu líder si ya se generó el corte de ventas. A veces tarda unos minutos después de abrir tienda.",
+      "Consulta con otro asociado si sus ventas aparecen. Si no, puede ser un retraso general.",
+      "Valida que estés en la tienda correcta. Si estás cubriendo en otra tienda, los datos podrían no cargarse.",
+      "Revisa el pizarrón o chat del equipo; si hubo cambios en los horarios o asignaciones, podrían afectar la visibilidad."
+    ]
+  },
+  {
+    "app": "Plan IT",
+    "issue": "No puedo ver el plan de actividades",
+    "solutions": [
+      "Consulta con el subgerente si ya se liberó el plan de hoy. A veces lo ajustan a primera hora.",
+      "Pregunta a un compañero si su plan está visible. Si varios no lo ven, puede ser un retraso de carga.",
+      "Verifica si hubo cambios de horario o cobertura de tienda. Esto puede afectar lo que ves.",
+      "Si estás cubriendo en otra área o sección, pide a tu líder que revise si el plan fue asignado correctamente."
     ]
   }
 ]
