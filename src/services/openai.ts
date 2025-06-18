@@ -8,12 +8,7 @@ const openai = new OpenAI({
 });
 
 const initialMessage =
-  "Before continuing, try the following: " +
-  "Check if you are connected to the store's WiFi network. " +
-  "Close the app and reopen it from scratch. " +
-  "Restart your device to rule out temporary errors. " +
-  "Check if you have the latest version installed from the store. " +
-  "Try accessing from another device to see if the issue is local.";
+  "Quick check: store WiFi, restart app, reboot device, update app, or try another device.";
 
 // Transforma el JSON a texto entendible por la IA
 function formatSolutionsForPrompt(): string {
